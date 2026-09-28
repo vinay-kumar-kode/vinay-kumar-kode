@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:4c1d95,100:7e22ce&height=220&section=header&text=Hi%20There,%20I'm%20Vinay%20Kumar%20Kode&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Student%20%7C%20Ethical%20Hacking%20%7C%20AI%20%26%20Cybersecurity&descAlignY=62&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:4c1d95,100:7e22ce&height=220&section=header&text=Hi%20There%2C%20I%27m%20Vinay%20Kumar%20Kode&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Student%20%7C%20Ethical%20Hacking%20%7C%20AI%20and%20Cybersecurity&descAlignY=62&descSize=18&animation=fadeIn"/>
 
 </div>
 
 <h2 align="center">🔐 Building Security-Focused Systems</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Cybersecurity-Student-7c3aed?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethical%20Hacking-Interested-9333ea?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%2B%20Security-Exploring-6d28d9?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Student-7c3aed?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-Interested-9333ea?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%2B%20Security-Exploring-6d28d9?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
 </p>
 
 <p align="center">
 <a href="https://github.com/vinay-kumar-kode">
-<img src="https://img.shields.io/badge/GitHub-vinay--kumar--kode-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-vinay--kumar--kode-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/vinay-kumar-kode-905aab320/">
-<img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20Kode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20Kode-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 </p>
 
@@ -229,19 +229,19 @@ Areas: VAPT Web Security Linux Networking Penetration Testing
 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,js" />
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,js"/>
 </p>
 
 🐧 Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali"/>
 </p>
 
 🔧 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cmake" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cmake"/>
 </p>
 
 🔐 Cybersecurity Tools
@@ -249,13 +249,13 @@ Areas: VAPT Web Security Linux Networking Penetration Testing
 <p>
 <img src="https://img.shields.io/badge/Wazuh-5B21B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenSCAP-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Z3%20Solver-111827?style=for-the-badge"/>
 </p>
 
 🧠 Skills
 
-Cybersecurity
+🔐 Cybersecurity
 
 Penetration Testing
 Vulnerability Assessment
@@ -269,7 +269,7 @@ Security Compliance
 Log Analysis
 MITRE ATT&CK
 
-AI & Security
+🤖 AI & Security
 
 AI-assisted Security Analysis
 LLM-based Security Analysis
@@ -278,12 +278,32 @@ Context-aware Risk Analysis
 Security Automation
 AI × Cybersecurity
 
-Programming
+💻 Programming
 
 Python
 C++
 Bash
 JavaScript
+
+🎯 Areas of Interest
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Red%20Teaming-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blue%20Teaming-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-4f46e5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network%20Security-0891b2?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2B%20Cybersecurity-9333ea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat%20Detection-7e22ce?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security%20Automation-6d28d9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security%20Research-581c87?style=for-the-badge"/>
+
+</p>
 
 📚 Currently Learning
 
@@ -300,26 +320,35 @@ JavaScript
 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinay-kumar-kode&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-kumar-kode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vinay-kumar-kode&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-kumar-kode&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"/>
+
 </p>
 
 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vinay-kumar-kode&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=vinay-kumar-kode&amp;theme=tokyonight&amp;hide_border=true"/>
+
 </p>
 
 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay-kumar-kode&theme=tokyo-night&hide_border=true&area=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay-kumar-kode&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"/>
+
 </p>
 
 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vinay-kumar-kode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinay-kumar-kode&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8"/>
+
 </p>
 
 🌐 Connect With Me
@@ -327,11 +356,11 @@ JavaScript
 <p align="center">
 
 <a href="https://github.com/vinay-kumar-kode">
-<img src="https://img.shields.io/badge/GitHub-vinay--kumar--kode-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-vinay--kumar--kode-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vinay-kumar-kode-905aab320/">
-<img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20Kode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20Kode-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 </p>
@@ -347,15 +376,19 @@ Feel free to explore my repositories and connect with me.
 ⚡ Philosophy
 
 <h3 align="center">
+
 Learn • Build • Break • Secure • Repeat
+
 </h3>
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile!
+
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:4c1d95,100:7e22ce&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a8a,50:4c1d95,100:7e22ce&amp;height=120&amp;section=footer"/>
 
 </div>
