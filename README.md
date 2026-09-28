@@ -63,30 +63,4 @@ support verified remediation.
 
 ---
 
-### 🧠 SIEM Rule Verification using Z3
 
-A security-rule verification pipeline that transforms security requirements
-into formal representations and verifies them using the Z3 SMT solver.
-
-**Pipeline:**
-
-```text
-Security Requirement
-        ↓
-NLP Processing
-        ↓
-Security Rule Representation
-        ↓
-HDSL / Formal Model
-        ↓
-BNF Parsing
-        ↓
-SMT-LIB
-        ↓
-Z3 Solver
-        ↓
-SAT / UNSAT
-        ↓
-SIEM Rule Processing
-        ↓
-MITRE ATT&CK Mapping
